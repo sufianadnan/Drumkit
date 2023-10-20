@@ -17,7 +17,7 @@ This is a simple web-based Drum Kit application that allows you to play drum sou
 
 ## Demo
 
-You can see a live demo of this project [here](#). 
+You can see a live demo of this project [here](https://sufianadnan.github.io/Drumkit/). 
 
 ## Installation
 
